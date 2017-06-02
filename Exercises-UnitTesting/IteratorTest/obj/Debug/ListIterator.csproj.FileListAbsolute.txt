@@ -1,0 +1,3 @@
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\UnitTesting\IteratorTest\bin\Debug\IteratorTest.exe.config
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\UnitTesting\IteratorTest\obj\Debug\IteratorTest.exe
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\UnitTesting\IteratorTest\obj\Debug\IteratorTest.pdb

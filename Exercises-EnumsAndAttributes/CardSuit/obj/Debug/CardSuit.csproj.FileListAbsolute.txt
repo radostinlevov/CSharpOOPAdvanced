@@ -1,0 +1,6 @@
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\EnumsAndAttributes\CardSuit\bin\Debug\CardSuit.exe.config
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\EnumsAndAttributes\CardSuit\bin\Debug\CardSuit.exe
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\EnumsAndAttributes\CardSuit\bin\Debug\CardSuit.pdb
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\EnumsAndAttributes\CardSuit\obj\Debug\CardSuit.csprojResolveAssemblyReference.cache
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\EnumsAndAttributes\CardSuit\obj\Debug\CardSuit.exe
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\EnumsAndAttributes\CardSuit\obj\Debug\CardSuit.pdb

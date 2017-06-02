@@ -1,0 +1,5 @@
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\EnumsAndAttributes\CardGame\bin\Debug\CardGame.exe.config
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\EnumsAndAttributes\CardGame\bin\Debug\CardGame.exe
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\EnumsAndAttributes\CardGame\bin\Debug\CardGame.pdb
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\EnumsAndAttributes\CardGame\obj\Debug\CardGame.exe
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\EnumsAndAttributes\CardGame\obj\Debug\CardGame.pdb

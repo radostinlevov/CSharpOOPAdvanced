@@ -1,0 +1,8 @@
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\UnitTesting\ListIterator.Tests\bin\Debug\ListIterator.Tests.dll
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\UnitTesting\ListIterator.Tests\bin\Debug\ListIterator.Tests.pdb
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\UnitTesting\ListIterator.Tests\bin\Debug\IteratorTest.exe
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\UnitTesting\ListIterator.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\UnitTesting\ListIterator.Tests\bin\Debug\IteratorTest.pdb
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\UnitTesting\ListIterator.Tests\obj\Debug\ListIterator.Tests.csprojResolveAssemblyReference.cache
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\UnitTesting\ListIterator.Tests\obj\Debug\ListIterator.Tests.dll
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\UnitTesting\ListIterator.Tests\obj\Debug\ListIterator.Tests.pdb

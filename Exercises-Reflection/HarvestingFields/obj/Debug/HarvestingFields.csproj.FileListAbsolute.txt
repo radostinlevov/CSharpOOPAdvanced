@@ -1,0 +1,6 @@
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\Reflection\HarvestingFields\bin\Debug\HarvestingFields.exe.config
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\Reflection\HarvestingFields\bin\Debug\HarvestingFields.exe
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\Reflection\HarvestingFields\bin\Debug\HarvestingFields.pdb
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\Reflection\HarvestingFields\obj\Debug\HarvestingFields.csprojResolveAssemblyReference.cache
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\Reflection\HarvestingFields\obj\Debug\HarvestingFields.exe
+D:\Programming\Visual Studio 2015\Projects\C# OOP Advanced\Reflection\HarvestingFields\obj\Debug\HarvestingFields.pdb
